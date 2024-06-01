@@ -11,9 +11,9 @@ I am Archana, a dedicated software developer with a keen interest in crafting el
 
 🚀 Projects and Contributions
 
-    [Rental Listing Website]: 
+    Rental Listing Website: 
     Architected a rental platform enabling individuals to effortlessly discover their perfect homes in Odisha, India. Engineered a user-centric rental listing website, prioritizing frontend technology for an intuitive interface.
-    [Image Generation Application]: 
+    Image Generation Application: 
     This project is a recreation inspired by the groundbreaking DALL-E model developed by OpenAI, which generates images from textual descriptions. This project aim to replicate this functionality to a certain extent, allowing users to input prompts and generate corresponding images.
 
 🌱 Current Learning
