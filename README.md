@@ -1,23 +1,44 @@
-### Hello there 👋
+# 👋 Hello, I'm Archana Mohanty
 
-I am Archana, a dedicated software developer with a keen interest in crafting elegant solutions to complex problems. Here, you will find a collection of my projects, contributions, and explorations in various programming languages and technologies.
+A software developer with a sharp eye for design, structure, and scalable solutions. I build apps that are as elegant as they are functional — driven by clean code, logic-first thinking, and a desire to solve real-world problems.
 
-🔧 Skills and Technologies:
+---
 
-    Languages: Python, JavaScript, C++, Java
-    Frameworks: React, Node.js, Django, Flask
-    Tools: Git, Docker, Kubernetes, CI/CD
-    Databases: MySQL, PostgreSQL, MongoDB
+### 🛠️ Technical Skills
 
-🚀 Projects and Contributions
+![Languages](https://skillicons.dev/icons?i=python,cpp,java,javascript,dart)
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,flask,flutter)
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma,postman)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)
 
-    Rental Listing Website: 
-    Architected a rental platform enabling individuals to effortlessly discover their perfect homes in Odisha, India. Engineered a user-centric rental listing website, prioritizing frontend technology for an intuitive interface.
-    Image Generation Application: 
-    This project is a recreation inspired by the groundbreaking DALL-E model developed by OpenAI, which generates images from textual descriptions. This project aim to replicate this functionality to a certain extent, allowing users to input prompts and generate corresponding images.
+---
 
-🌱 Current Learning
+### 🚀 Featured Projects
 
-    Cloud Computing
-    Docker
-    Software Development Life Cycle
+- **🏘️ Rental Listing Website**  
+  Built a property discovery platform for Odisha, prioritizing a clean and intuitive frontend for seamless user interaction.
+
+- **🎨 Image Generation App**  
+  DALL·E-inspired tool that transforms text into AI-generated visuals, exploring the intersection of NLP and generative media.
+
+---
+
+### 🌱 Currently Exploring
+
+- ☁️ Cloud Computing & Deployment  
+- 🐳 Docker & Kubernetes  
+- 🔁 Full-cycle SDLC Practices  
+
+---
+
+### 📊 GitHub Stats
+
+![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=archana-mohanty&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archana-mohanty&layout=compact&theme=calm)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archana%20Mohanty-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/archana-mohanty)
+
