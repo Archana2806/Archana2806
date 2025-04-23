@@ -1,44 +1,39 @@
 # 👋 Hello, I'm Archana Mohanty
 
-A software developer with a sharp eye for design, structure, and scalable solutions. I build apps that are as elegant as they are functional — driven by clean code, logic-first thinking, and a desire to solve real-world problems.
+Software developer focused on building responsive, scalable, and meaningful mobile applications. I work at the intersection of design and logic — where UI meets engineering.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=python,cpp,java,javascript,dart)
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,flask,flutter)
-![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma,postman)
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)
-
----
-
-### 🚀 Featured Projects
-
-- **🏘️ Rental Listing Website**  
-  Built a property discovery platform for Odisha, prioritizing a clean and intuitive frontend for seamless user interaction.
-
-- **🎨 Image Generation App**  
-  DALL·E-inspired tool that transforms text into AI-generated visuals, exploring the intersection of NLP and generative media.
+**Languages:** Python · JavaScript · C++ · Java · Dart  
+**Frameworks:** React · Node.js · Django · Flask · Flutter  
+**Tools:** Git · Docker · Kubernetes · Figma · Firebase  
+**Databases:** MySQL · PostgreSQL · MongoDB  
 
 ---
 
-### 🌱 Currently Exploring
+### 🔥 Projects
 
-- ☁️ Cloud Computing & Deployment  
-- 🐳 Docker & Kubernetes  
-- 🔁 Full-cycle SDLC Practices  
+**🏘️ Rental Listings**  
+A regional property discovery platform designed for Odisha. Prioritized intuitive UI and smooth user experience over flashy design.  
+[Repo →](https://github.com/yourusername/rental-app)
 
----
-
-### 📊 GitHub Stats
-
-![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=archana-mohanty&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archana-mohanty&layout=compact&theme=calm)
+**🎨 AI Image Generator**  
+A lightweight DALL·E-inspired project that transforms user prompts into generated images. Minimal interface, maximum creativity.  
+[Repo →](https://github.com/yourusername/image-ai)
 
 ---
 
-### 📫 Let's Connect
+### 📌 Professional Development
+
+- Designing mobile-first UIs with clean architecture in Flutter  
+- Strengthening problem-solving with daily DSA & algorithm practice  
+- Learning cloud-native deployment using Docker & CI/CD pipelines  
+- Following solid principles of the SDLC — from wireframe to release  
+
+---
+
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Archana%20Mohanty-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/archana-mohanty)
-
