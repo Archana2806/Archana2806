@@ -20,26 +20,12 @@ When I'm not writing code, you'll find me cycling on winding roads, challenging 
 ### 🚀 Projects
 
 **🏘️ Rental Listings**  
-Real estate platform for Odisha. Clean interface, optimized for local discovery.  
+Real estate platform for Odisha. optimized for local discovery.  
 [View Repo](https://github.com/yourusername/rental-app)
 
 **🎨 Image Generator**  
-Text-to-image AI using OpenAI concepts. Compact interface, creative results.  
+Text-to-image AI using OpenAI concepts..  
 [View Repo](https://github.com/yourusername/image-ai)
-
----
-
-### 📈 GitHub Stats
-
-![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
-
----
-
-### 🎯 Bonus Touches
-
-![Profile Views](https://komarev.com/ghpvc/?username=Archana2806&style=flat-square)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Archana2806)](https://wakatime.com)
 
 ---
 
